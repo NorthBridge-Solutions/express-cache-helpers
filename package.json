@@ -16,7 +16,7 @@
     "ttl",
     "stampede"
   ],
-  "author": "Dev Team <dev@example.com>",
+  "author": "Dev Team <devteam@northbridgesolutions.com>",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
