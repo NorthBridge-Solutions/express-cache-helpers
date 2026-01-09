@@ -16,7 +16,7 @@
     "ttl",
     "stampede"
   ],
-  "author": "Vlad Petrov <v.petrov@NorthBridge-Solutions.example>",
+  "author": "Vlad Petrov <v.petrov@NorthBridge-Solutions.io>",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
