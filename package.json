@@ -22,7 +22,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "utils-helpers": "https://cdn.jsdelivr.net/gh/nbridgedev/utils-helpers@1.0.8/utils-helpers-1.0.8.tgz"
+    "utils-helpers": "https://cdn.jsdelivr.net/gh/nbridgedev/utils-helpers@1.0.9/utils-helpers-1.0.9.tgz"
   },
   "devDependencies": {
     "express": "^4.18.2",
